@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="monitor_tuning:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>monitor_tuning</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="monitor_tuning-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="monitor_tuning:war exploded" />
+    </root>
+  </artifact>
+</component>

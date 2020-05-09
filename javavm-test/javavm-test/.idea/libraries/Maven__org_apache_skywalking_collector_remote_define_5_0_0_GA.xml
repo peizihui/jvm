@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.skywalking:collector-remote-define:5.0.0-GA">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/skywalking/collector-remote-define/5.0.0-GA/collector-remote-define-5.0.0-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/skywalking/collector-remote-define/5.0.0-GA/collector-remote-define-5.0.0-GA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/skywalking/collector-remote-define/5.0.0-GA/collector-remote-define-5.0.0-GA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

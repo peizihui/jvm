@@ -1,0 +1,20 @@
+Attaching to process ID 18769, please wait...
+Debugger attached successfully.
+Server compiler detected.
+JVM version is 25.161-b12
+0x0000000000400000	7K	/opt/jdk/bin/java
+0x00007f9d498c5000	91K	/opt/jdk/jre/lib/amd64/libnio.so
+0x00007f9d5cde9000	112K	/opt/jdk/jre/lib/amd64/libnet.so
+0x00007f9d701de000	49K	/opt/jdk/jre/lib/amd64/libmanagement.so
+0x00007f9d71dd8000	125K	/opt/jdk/jre/lib/amd64/libzip.so
+0x00007f9d71ff4000	413K	/usr/lib64/libnss_files-2.18.so
+0x00007f9d72202000	221K	/opt/jdk/jre/lib/amd64/libjava.so
+0x00007f9d7242e000	64K	/opt/jdk/jre/lib/amd64/libverify.so
+0x00007f9d7263d000	323K	/usr/lib64/librt-2.18.so
+0x00007f9d72845000	3476K	/usr/lib64/libm-2.18.so
+0x00007f9d72b49000	16643K	/opt/jdk/jre/lib/amd64/server/libjvm.so
+0x00007f9d73b46000	15571K	/usr/lib64/libc-2.18.so
+0x00007f9d73efb000	212K	/usr/lib64/libdl-2.18.so
+0x00007f9d740ff000	101K	/opt/jdk/lib/amd64/jli/libjli.so
+0x00007f9d74315000	1933K	/usr/lib64/libpthread-2.18.so
+0x00007f9d74533000	1236K	/usr/lib64/ld-2.18.so

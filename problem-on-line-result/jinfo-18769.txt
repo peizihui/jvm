@@ -1,0 +1,70 @@
+Attaching to process ID 18769, please wait...
+Debugger attached successfully.
+Server compiler detected.
+JVM version is 25.161-b12
+Java System Properties:
+
+java.runtime.name = Java(TM) SE Runtime Environment
+java.vm.version = 25.161-b12
+sun.boot.library.path = /opt/jdk/jre/lib/amd64
+java.protocol.handler.pkgs = org.springframework.boot.loader
+java.vendor.url = http://java.oracle.com/
+java.vm.vendor = Oracle Corporation
+path.separator = :
+file.encoding.pkg = sun.io
+java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+sun.os.patch.level = unknown
+sun.java.launcher = SUN_STANDARD
+user.country = US
+user.dir = /home/monitorturning
+java.vm.specification.name = Java Virtual Machine Specification
+PID = 18769
+java.runtime.version = 1.8.0_161-b12
+java.awt.graphicsenv = sun.awt.X11GraphicsEnvironment
+os.arch = amd64
+java.endorsed.dirs = /opt/jdk/jre/lib/endorsed
+line.separator = 
+
+java.io.tmpdir = /tmp
+java.vm.specification.vendor = Oracle Corporation
+os.name = Linux
+sun.jnu.encoding = UTF-8
+java.library.path = /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+spring.beaninfo.ignore = true
+java.specification.name = Java Platform API Specification
+java.class.version = 52.0
+sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+os.version = 3.10.0-1062.12.1.el7.x86_64
+user.home = /root
+user.timezone = Asia/Shanghai
+catalina.useNaming = false
+java.awt.printerjob = sun.print.PSPrinterJob
+file.encoding = UTF-8
+java.specification.version = 1.8
+catalina.home = /tmp/tomcat.2789308776949539090.12345
+user.name = root
+java.class.path = monitor_tuning-0.0.1-SNAPSHOT.jar
+java.vm.specification.version = 1.8
+sun.arch.data.model = 64
+sun.java.command = monitor_tuning-0.0.1-SNAPSHOT.jar
+java.home = /opt/jdk/jre
+user.language = en
+java.specification.vendor = Oracle Corporation
+awt.toolkit = sun.awt.X11.XToolkit
+java.vm.info = mixed mode
+java.version = 1.8.0_161
+java.ext.dirs = /opt/jdk/jre/lib/ext:/usr/java/packages/lib/ext
+sun.boot.class.path = /opt/jdk/jre/lib/resources.jar:/opt/jdk/jre/lib/rt.jar:/opt/jdk/jre/lib/sunrsasign.jar:/opt/jdk/jre/lib/jsse.jar:/opt/jdk/jre/lib/jce.jar:/opt/jdk/jre/lib/charsets.jar:/opt/jdk/jre/lib/jfr.jar:/opt/jdk/jre/classes
+java.awt.headless = true
+java.vendor = Oracle Corporation
+catalina.base = /tmp/tomcat.2789308776949539090.12345
+file.separator = /
+java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+sun.io.unicode.encoding = UnicodeLittle
+sun.cpu.endian = little
+sun.cpu.isalist = 
+
+VM Flags:
+Non-default VM flags: -XX:CICompilerCount=2 -XX:InitialHeapSize=31457280 -XX:MaxHeapSize=482344960 -XX:MaxNewSize=160759808 -XX:MinHeapDeltaBytes=196608 -XX:NewSize=10485760 -XX:OldSize=20971520 -XX:+UseCompressedClassPointers -XX:+UseCompressedOops 
+Command line:  
+
